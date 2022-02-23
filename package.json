@@ -1,0 +1,27 @@
+{
+  "name": "lab-ricardopaz-in6bm",
+  "version": "1.0.0",
+  "description": "Laboratorio 2 Practica Supervisada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpaz2017457/Lab2-RicardoPaz-IN6BM.git"
+  },
+  "author": "Ricardo Paz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpaz2017457/Lab2-RicardoPaz-IN6BM/issues"
+  },
+  "homepage": "https://github.com/rpaz2017457/Lab2-RicardoPaz-IN6BM#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.3"
+  }
+}
